@@ -74,6 +74,8 @@ The Spearman results are visualized below.
 
 The correlation heatmap of the 20 highest-variance terms (`feat_corr_13`) also showed positive associations among common words, with the strongest reported correlation being approximately 0.69. These associations indicate that some frequent words tend to occur together, but they do not necessarily represent meaningful sentiment relationships.
 
+![Correlation heatmap of top 20 terms](../plots/李羽姿_homework_plot_feat_corr_13.png)
+
 Overall, the correlation results suggest that the relationship between individual terms and positive sentiment is relatively weak. The presence of common words and the sparsity of short Reddit posts may make it difficult to identify clear sentiment-related patterns using these filters alone.
 
 ## 4. Pattern mining
